@@ -1,79 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ngô Minh Đạt</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer | Node.js | NestJS | TypeScript
-</h3>
+# 👋 Hi, I'm Ngô Minh Đạt
 
-<p align="center">
-Passionate about building scalable backend systems and RESTful APIs.
+### Backend Developer | Node.js | NestJS | TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+RESTful+APIs;Learning+System+Design+%26+Cloud;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Information Technology Graduate
+
+💼 Backend Developer
+
+📍 Da Nang, Vietnam
+
+❤️ Passionate about Backend Development, AI Applications and Cloud Technologies.
+
+🚀 Currently focusing on
+
+- NestJS
+- Node.js
+- TypeScript
+- Docker
+- System Design
+- Redis
+- Microservices
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Database
 
-- 🎓 Information Technology Graduate
-- 💼 Backend Developer
-- 🌱 Currently learning
-  - NestJS Architecture
-  - Docker & Docker Compose
-  - System Design
-  - Redis
-  - Microservices
-- 💡 Interested in Backend Development, AI Applications and Cloud Technologies
-- 📍 Da Nang, Vietnam
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+<img src="https://cdn.simpleicons.org/prisma/2D3748" width="48"/>
+
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## Frontend
 
-### Backend
+<p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
 
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</p>
 
 ---
 
-## 🛠 Tools
+## Tools
 
-- Git & GitHub
-- Docker
-- Docker Compose
-- Postman
-- Swagger / OpenAPI
-- VS Code
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 OfficeFlow Helpdesk
+## 🏢 OfficeFlow Helpdesk
 
-Backend Helpdesk System built with NestJS.
+Enterprise Helpdesk Management System
 
-**Tech**
+### Tech
 
 - NestJS
 - TypeScript
@@ -83,22 +92,23 @@ Backend Helpdesk System built with NestJS.
 - Docker Compose
 - Swagger
 
-**Features**
+### Features
 
-- Authentication & Authorization (RBAC)
+- Authentication & Authorization
+- Role Based Access Control (RBAC)
 - Ticket Management
-- SLA & Deadline Tracking
-- Audit Log
-- Search, Filter & Pagination
+- SLA Deadline Tracking
+- Audit Logging
+- Search / Filter / Pagination
 - File Upload
 
 ---
 
-### 🏥 Smart Hospital Management System
+## 🏥 Smart Hospital Management System
 
-Hospital Management System with AI integration.
+AI-powered Hospital Management System
 
-**Tech**
+### Tech
 
 - NestJS
 - PostgreSQL
@@ -107,7 +117,7 @@ Hospital Management System with AI integration.
 - PayOS
 - SendGrid
 
-**Features**
+### Features
 
 - Appointment Booking
 - Authentication
@@ -117,16 +127,87 @@ Hospital Management System with AI integration.
 
 ---
 
-## 📫 Contact
+## 🎵 Vibely Music Streaming
 
-- 📧 Email: ngominhdat2004@gmail.com
-- 💻 GitHub: https://github.com/ITCrazy357
+Music Streaming Platform
+
+### Tech
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Socket.IO
+- Pug SSR
+
+### Features
+
+- Authentication
+- Playlist Management
+- Music Player
+- Search Songs
+- Realtime Notification
 
 ---
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ITCrazy357&show_icons=true&theme=tokyonight)
+# 📊 GitHub Analytics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ITCrazy357&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCrazy357&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ITCrazy357&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITCrazy357&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ITCrazy357&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ITCrazy357&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITCrazy357&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+📧 Email:
+<b>ngominhdat2004@gmail.com</b>
+
+</p>
+
+<p>
+
+💻 GitHub:
+<a href="https://github.com/ITCrazy357">ITCrazy357</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>

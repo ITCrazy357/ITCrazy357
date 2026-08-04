@@ -123,3 +123,10 @@ Hospital Management System with AI integration.
 - 💻 GitHub: https://github.com/ITCrazy357
 
 ---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ITCrazy357&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ITCrazy357&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCrazy357&layout=compact&theme=tokyonight)

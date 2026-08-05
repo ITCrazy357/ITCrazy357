@@ -27,7 +27,6 @@
 - TypeScript
 - Docker
 - System Design
-- Redis
 - Microservices
 
 ---

@@ -1,223 +1,230 @@
+# GitHub Profile README
+
 <div align="center">
 
 # 👋 Hi, I'm Ngô Minh Đạt
 
-### Backend Developer | Node.js | NestJS | TypeScript
+### Backend Developer | Node.js • NestJS • TypeScript
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+RESTful+APIs;Learning+System+Design+%26+Cloud;Always+Learning+New+Technologies"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+RESTful+APIs;Learning+System+Design+%26+Cloud;Always+Learning+New+Technologies"
+alt="Typing SVG"
+/>
+
+<br/>
+
+📍 Da Nang, Vietnam
+🎓 Software Engineering Graduate
+💻 Backend-focused Developer
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Information Technology Graduate
+I'm a **Software Engineering graduate** focused on Backend Development.
 
-💼 Backend Developer
+I enjoy building backend systems, designing RESTful APIs, working with databases, and implementing real-world business logic.
 
-📍 Da Nang, Vietnam
+Currently improving my knowledge in:
 
-❤️ Passionate about Backend Development, AI Applications and Cloud Technologies.
-
-🚀 Currently focusing on
-
-- NestJS
-- Node.js
-- TypeScript
-- Docker
-- System Design
-- Microservices
+* 🚀 NestJS & Node.js
+* 🧠 System Design
+* 🐳 Docker & Deployment
+* 🧩 Software Architecture
+* ☁️ Cloud Technologies
+* ⚙️ Microservices
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts"/>
-
-</p>
-
----
-
-## Database
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-<img src="https://cdn.simpleicons.org/prisma/2D3748" width="48"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
 </p>
 
----
+**Node.js • NestJS • Express.js • TypeScript • RESTful API • JWT • Socket.IO**
 
-## Frontend
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" alt="Prisma" />
 </p>
 
----
+**MySQL • PostgreSQL • MongoDB • Prisma • TypeORM • Mongoose**
 
-## Tools
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
+
+**React • JavaScript • TypeScript • HTML • CSS**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+**Git • GitHub • Docker • Postman • Swagger/OpenAPI**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 OfficeFlow Helpdesk - Internal IT Support & Asset Management System
+## 🏢 OfficeFlow Helpdesk
 
-Enterprise Helpdesk Management System
+### Internal IT Support & Asset Management System
 
-### Tech
+A backend-focused Helpdesk system designed to manage internal IT support workflows, tickets, users, permissions, notifications, and SLA tracking.
 
-- NestJS
-- TypeScript
-- Prisma
-- MySQL
-- JWT
-- Docker Compose
-- Swagger
+**Role:** Backend Developer
 
-### Features
+### ⚙️ Tech Stack
 
-- Authentication & Authorization
-- Role Based Access Control (RBAC)
-- Ticket Management
-- SLA Deadline Tracking
-- Audit Logging
-- Search / Filter / Pagination
-- File Upload
+`NestJS` `TypeScript` `MySQL` `Prisma` `JWT` `Docker Compose` `Swagger/OpenAPI`
 
-### Live Demo
-Link:  https://smart-hospital-rouge.vercel.app
-Demo Account:  https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
+### ✨ Key Features
+
+* 🔐 JWT Authentication
+* 🛡️ Role-Based Access Control (RBAC)
+* 🎫 Ticket Management
+* 👥 Ticket Assignment
+* 🔄 Ticket Status Workflow
+* ⏱️ SLA & Overdue Tracking
+* 🔔 Event-driven Notifications
+* 💬 Ticket Comments & History
+* 📎 File Upload
+* 🔍 Search / Filter / Pagination
+* 📊 Dashboard
+* 📝 Swagger/OpenAPI Documentation
+* 🐳 Dockerized Development Environment
+* 🧪 Unit & Integration Testing
+
+### 🔗 Links
+
+**GitHub:**
+https://github.com/ITCrazy357/OfficeFlow-Helpdesk
+
+**Live Demo:**
+`<OFFICEFLOW_DEMO_URL>`
 
 ---
 
-## 🏥 Hệ thống quản lý bệnh viện sử dụng AI hỗ trợ đặt lịch khám cho bệnh nhân, phân tích thống kê bệnh
-án cho bác sĩ và thanh toán online, quảng cáo
+## 🏥 Smart Hospital
 
-AI-powered Hospital Management System
+### AI-powered Hospital Management System
 
-### Tech
+A hospital management platform supporting appointment booking, authentication, online payments, email notifications, and AI-assisted healthcare features.
 
-- NestJS
-- PostgreSQL
-- TypeORM
-- JWT
-- PayOS
-- SendGrid
+**Role:** Backend Developer
 
-### Features
+### ⚙️ Tech Stack
 
-- Appointment Booking
-- Authentication
-- AI Assistant
-- Online Payment
-- Email Notification
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `Passport` `PayOS` `Supabase` `SendGrid`
 
-### Live Demo
--
-Link:  https://smart-hospital-rouge.vercel.app
-Demo Account:  https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
+### ✨ Key Features
+
+* 🗓️ Appointment Booking
+* 🔐 Authentication & Authorization
+* 🤖 AI Assistant
+* 💳 Online Payment
+* 📧 Email Notification
+* 📊 Medical Data Management
+
+### 🔗 Links
+
+**Live Demo:**
+https://smart-hospital-rouge.vercel.app
+
+**GitHub:**
+https://github.com/ITCrazy357/SmartHospital
+
+**Demo Account:**
+https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
+
 ---
 
 ## 🎵 Vibely Music Streaming
 
-Music Streaming Platform
+### Music Streaming Platform
 
-### Tech
+A web-based music streaming platform built with Node.js and server-side rendering.
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Socket.IO
-- Pug SSR
+### ⚙️ Tech Stack
 
-### Features
+`Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.IO` `Pug`
 
-- Authentication
-- Playlist Management
-- Music Player
-- Search Songs
-- Realtime Notification
+### ✨ Key Features
 
-### Live Demo
-Link:  https://music-streaming-navy.vercel.app
----
+* 🔐 Authentication
+* 🎵 Music Player
+* 📂 Playlist Management
+* 🔎 Song Search
+* 🔔 Realtime Notifications
+* 🖥️ Server-Side Rendering
 
-# 📊 GitHub Analytics
+### 🔗 Live Demo
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ITCrazy357&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITCrazy357&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ITCrazy357&theme=tokyonight"/>
-
-</p>
+https://music-streaming-navy.vercel.app
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ITCrazy357&theme=algolia&row=1&column=7"/>
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=ITCrazy357&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-</p>
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITCrazy357&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+<br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=ITCrazy357&theme=tokyonight&hide_border=true"
+/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITCrazy357&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p>
-
-📧 Email:
-<b>ngominhdat2004@gmail.com</b>
-
+  📧 <b>Email:</b>
+  <a href="mailto:ngominhdat2004@gmail.com">
+    ngominhdat2004@gmail.com
+  </a>
 </p>
 
 <p>
+  💻 <b>GitHub:</b>
+  <a href="https://github.com/ITCrazy357">
+    github.com/ITCrazy357
+  </a>
+</p>
 
-💻 GitHub:
-<a href="https://github.com/ITCrazy357">ITCrazy357</a>
-
+<p>
+  📍 <b>Location:</b> Da Nang, Vietnam
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
+
+<sub>Building better software, one project at a time.</sub>
 
 </div>

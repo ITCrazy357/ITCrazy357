@@ -108,11 +108,14 @@ A backend-focused Helpdesk system designed to manage internal IT support workflo
 
 ### 🔗 Links
 
+**Live Demo:**
+https://office-flow-helpdesk.vercel.app
+
 **GitHub:**
 https://github.com/ITCrazy357/OfficeFlow-Helpdesk
 
-**Live Demo:**
-`<OFFICEFLOW_DEMO_URL>`
+**Demo Account:**
+https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
 
 ---
 

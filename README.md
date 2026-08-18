@@ -77,7 +77,7 @@
 
 # 🚀 Featured Projects
 
-## 🏢 OfficeFlow Helpdesk
+## 🏢 OfficeFlow Helpdesk - Internal IT Support & Asset Management System
 
 Enterprise Helpdesk Management System
 
@@ -101,9 +101,14 @@ Enterprise Helpdesk Management System
 - Search / Filter / Pagination
 - File Upload
 
+### Live Demo
+Link:  https://smart-hospital-rouge.vercel.app
+Demo Account:  https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
+
 ---
 
-## 🏥 Smart Hospital Management System
+## 🏥 Hệ thống quản lý bệnh viện sử dụng AI hỗ trợ đặt lịch khám cho bệnh nhân, phân tích thống kê bệnh
+án cho bác sĩ và thanh toán online, quảng cáo
 
 AI-powered Hospital Management System
 
@@ -124,6 +129,9 @@ AI-powered Hospital Management System
 - Online Payment
 - Email Notification
 
+### Live Demo
+Link:  https://smart-hospital-rouge.vercel.app
+Demo Account:  https://docs.google.com/document/d/1tavrizBWpUWnlqKlqo1tHhC2lqnVPLWUH6lV4pAL-VI/edit?usp=sharing
 ---
 
 ## 🎵 Vibely Music Streaming
@@ -147,6 +155,8 @@ Music Streaming Platform
 - Search Songs
 - Realtime Notification
 
+### Live Demo
+Link:  https://music-streaming-navy.vercel.app
 ---
 
 # 📊 GitHub Analytics
